@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad AL-Sanafeery</h1>
 <h3 align="center">A passionate consultant & developer from Egypt</h3>
 
-<p align="left"> <img src="https://github.com/sanafeery.png" alt="MohammadAL-Sanafeery" /> </p>
+<p align="left"> <img src="https://github.com/sanafeery.png" alt="MohammadAL-Sanafeery" style="width:50px;height:50px;" /> </p>
 
-<p align="left"> <a href="https://github.com/sanafeery"><img src="https://github.com/sanafeery.png" alt="MohammadAL-Sanafeery" /></a> </p>
+<p align="left"> <a href="https://github.com/sanafeery"><img src="https://github.com/sanafeery.png" alt="MohammadAL-Sanafeery" style="width:50px;height:50px;" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanafeery" target="blank"><img src="https://img.shields.io/twitter/follow/sanafeery?logo=twitter&style=for-the-badge" alt="MohammadAL-Sanafeery" /></a> </p>
 
