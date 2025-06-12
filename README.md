@@ -29,6 +29,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+	<a href="https://www.wordpress.org/" target="_blank" rel="noreferrer">
+		&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="bash" width="40" height="40"/>
+	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		&nbsp;<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 	</a>
